@@ -1,3 +1,5 @@
 # Fraction Number Line Escape — Student Site
 
-Self-paced digital escape room for 3rd Grade Math (CCSS 3.NF). Teacher materials are not included in this repo.
+Self-paced digital escape room for students. Hosted on GitHub Pages.
+
+Teacher guides, answer keys, and printable PDFs are **not** included here.
